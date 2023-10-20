@@ -1,0 +1,480 @@
+.gh{
+    width: 100%;
+    height: 700px;
+    background-color: whitesmoke;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: white;
+}
+.gh{
+    background-image: url(images/get-paid.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: bottom bottom;
+    
+}
+
+
+
+.ig{
+    width: 100%
+}
+.bu{
+    width: 180px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: rgb(233,236,239);
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    
+
+}
+.bua{
+    text-align: center;
+    font-size: 18px;
+    padding: 15px;
+    
+}
+.g{
+    width: 20px;
+    height: 20px;
+    
+}
+.butp{
+    width: 180px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: rgb(233,236,239);
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    cursor: pointer;
+    
+
+}
+.bu:hover{
+    background-color: white;
+}
+.butp:hover{
+    background-color: white;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    padding-top: 15px;
+    
+    
+}
+.nav:hover{
+    background-color: rgb(236,238,241)
+}
+.pa{
+    font-size: 18px;
+    position: relative;
+}
+.par{
+    font-size: 18px;
+    position: relative;
+}
+.para{
+    font-size: 18px;
+}
+.m{
+    width: 150%;
+    
+}
+.in{
+    margin-left: 50px;
+    margin-right: 100px;
+}
+.mo{
+    margin-right: 50px;
+}
+.ar{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(236,238,241);
+    display: none;
+    position: absolute;
+    z-index: 1;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    margin-top: 350px;
+    
+
+}
+.pa:hover +.ar{
+    background-color:rgb(236,238,241);
+    display: inline-block;
+
+}
+.pa:hover{
+    color: rgb(242,101,36);
+}
+
+
+
+.ab{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(236,238,241);
+    display: none;
+    position: absolute;
+    z-index: 1;
+    align-items: center;
+    margin-top: 350px;
+}
+.par:hover +.ab{
+        background-color:rgb(236,238,241);
+        display: inline-block;
+    
+    }
+.par:hover{
+    color: rgb(242,101,36);
+}
+.para:hover{
+    color: rgb(242,101,36);
+}
+.ara{
+    display: flex;  justify-content: space-between;
+}
+.arb{
+    margin-left: 40px; margin-top: 50px;
+}
+.arc{
+    margin: 0;
+}
+.ard{
+    margin-right: 40px; margin-top: 50px;
+}
+.are{
+    margin-top: 50px;
+}
+.arf{
+    margin-left: 40px; margin-top: 50px;
+}
+.arg{
+    display: flex;  justify-content: space-between;
+}
+.arh{
+    margin-right: 40px; margin-top: 50px;
+}
+.ari{
+    margin-top: 50px;
+}
+.arj{
+    margin-top: 50px; margin-right: 480px;
+}
+.ark{
+    margin-left: 50px; margin-top: 50px;
+}
+.arl{
+    display: flex;  justify-content: space-between;
+}
+.arm{
+    margin-right: 50px; margin-top: 50px;
+}
+.arn{
+    margin-top: 50px;
+}
+.aro{
+    margin-left: 50px; margin-top: 50px;
+}
+.arp{
+    display: flex;  justify-content: space-between;
+}
+.p1{
+    color: rgb(255, 255, 255); font-size: 20px; margin-top: 200px; text-align: center;
+}
+.p2{
+    color: rgb(255, 255, 255); font-size: 40px; text-align: center; margin: 0; margin-top: 20px;
+}
+.p3{
+    color: rgb(255, 255, 255); font-size: 40px; text-align: center; margin: 0; 
+}
+.p4{
+    color:  rgb(255, 255, 255); font-size: 14px; text-align: center; margin-top: 20px;
+}
+.do{
+    
+    width: 300px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: rgb(242,101,36);
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 450px;
+    display: flex;
+align-items: center;
+justify-content: center;
+border: none;
+}
+.so{
+    
+    width: 300px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgb(242,101,36);
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 40px;
+    display: flex;
+align-items: center;
+justify-content: center;
+border: none;
+}
+.so{
+    box-shadow: 0 5px 5px rgb(242,101,36);
+}
+
+
+.boa{
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+.p8{
+    background-color: white;
+    width: 100%;
+    height: 600px;
+    margin-top: 130px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.p9{
+    color: rgb(82, 82, 86);
+    font-size: 52px;
+    padding-top: 150px;
+    margin: 0;
+    margin-left: 40px;
+}
+.pk{
+    font-size: 44px;
+    color: rgb(82, 82, 86);
+    margin: 0;
+    margin-left: 40px;
+    padding-top: 100px;
+}
+.p10{
+    color: rgb(82, 82, 86);
+    font-size: 52px;
+    margin: 0;
+    margin-left: 40px;
+}
+.pm{
+    
+        color: rgb(82, 82, 86);
+        font-size: 44px;
+        margin: 0;
+        margin-left: 40px;
+    
+}
+.p11{
+    color: rgb(82, 82, 86);
+    font-size: 22px;
+    margin: 0;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.dod{
+    width: 170px;
+        height: 60px;
+        border-radius: 50px;
+        background-color: rgb(242,101,36);
+        padding: 10px;
+        margin-top: 30px;
+        margin-left: 70px;
+        border: none;
+}
+.dod{
+    box-shadow: 0 3px 3px  rgb(233, 148, 109) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dod:hover{
+    background-color: rgb(208, 105, 58);
+}
+.p20{
+    width: 100%; height: 600px; background-color: white;
+    margin-top: 120px;
+}
+.p20{
+    background-image: url(images/mask.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.p20a{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 80px;
+    margin: 0;
+    color: rgb(82, 82, 86);
+}
+.p20b{
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    margin-top: 10px;
+    color: rgb(82, 82, 86);
+}
+.p20c{
+    font-size: 24px;
+    color: rgb(82, 82, 86);
+    margin: 0;
+    margin-left: 10px;
+   
+}
+
+    .co{
+        box-shadow: 0 10px 10px  rgb(241,101,33) ;
+    }
+    .co{
+        
+    
+            width: 300px;
+            height: 60px;
+            border-radius: 50px;
+            background-color: rgb(242,101,36);
+            padding: 10px;
+            margin-top: 50px;
+            margin-left: 450px;
+            display: flex;
+        align-items: center;
+        justify-content: center;
+        border: none;
+        }
+ .p30{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+ }
+ .p30i{
+    margin-top: 30px;
+    margin-left: 50px;
+    
+ } 
+ .pi{
+    font-size: 52px;
+    color: rgb(82, 82, 86);
+    margin: 0;
+ } 
+ .pi1{
+    font-size: 18.6222px;
+    color: rgb(82, 82, 86);
+    margin: 0;
+    margin-top: 20px;
+ }  
+ .pi2{
+    font-size: 18.6222px;
+    color: rgb(82, 82, 86);
+    margin: 0;
+ } 
+ .dop{
+    width: 170px;
+        height: 50px;
+        border-radius: 30px;
+        background-color: rgb(242,101,36);
+        margin-top: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: none;
+ } 
+ .pl{
+    background-color: white;
+    width: 100%;
+    height: 600px;
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.f{
+    font-size: 17px;
+}
+.fg{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(242,101,36);
+}
+.ti{
+    width: 100%;
+    height: 300px;
+    background-color: white;
+    margin-top: 70px;
+}
+.ti{
+    background-image: url(images/minimal_newsletter_bg_img.png);
+    background-position: center;
+    background-repeat: no-repeat;
+   background-size:cover;
+}
+.gi{
+    text-align: center;
+    padding-top: 80px;
+    font-size: 44px;
+    color: white;
+    margin: 0;
+}
+.gi1{
+    color: white;
+    text-align: center;
+    margin: 0;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.fd1{
+    width: 170px;
+    height: 50px;
+    background-color: white;
+    border: none;
+    border-radius: 30px;
+    margin-left: 500px;
+    margin-top: 30px;
+}
+.fd2{
+    color: rgb(242,101,36);
+}
+.oi{
+    width: 100%;
+    height: 220px;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.oia{
+    padding-top: 40px;
+    
+}
+.lk{
+    margin-top: 30px;
+    
+}
+.lka{
+    margin: 7px;
+    color: rgb(97,82,101);
+}
+.uy{
+    cursor: pointer;
+}
+    
